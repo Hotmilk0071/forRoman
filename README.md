@@ -5,9 +5,9 @@
 В файле server.js измени путь 404 ошибки на нужный
 
 Используй мои аккаунты:
-freenom: Spotam005@gmail.com  ts9608373004ia
+freenom
 
-cloudflare: spotam005@gmail.com  ts9608373004ia=
+cloudflare
 
 
 Если нужна помощь вот некоторые видео:
